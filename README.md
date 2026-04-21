@@ -1,4 +1,4 @@
-# Spring AI RAG Tutorial with Ollama and PGVector
+# Spring AI RAG with Ollama and PGVector
 
 This project demonstrates the implementation of Retrieval Augmented Generation (RAG) using Spring AI, Ollama, and PGVector Database. The application serves as a personal assistant that can answer questions about Spring Boot by referencing the Spring Boot Reference Documentation PDF.
 
